@@ -1,0 +1,24 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    color: Green;
+    font-size: 30px;
+}
+
+ul {
+    text-align: left;
+    list-style-position: inside;
+    margin-left: 100px;
+}
+
+li a {
+    color: green;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+body {
+    background-image: url("images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
