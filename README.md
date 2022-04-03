@@ -16,4 +16,4 @@ python manage.py runserver
 
 ![image](https://github.com/Bonsoirrr/Poll-Application_Django/blob/master/homepage.png)
 
-- Vote for questions you are interested in
+- Vote for questions you are interested in, have fun!
